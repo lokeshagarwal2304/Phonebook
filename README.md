@@ -80,7 +80,7 @@ Got questions or suggestions? Feel free to open an issue or contact me directly.
 
 ## 📬 Contact
 
-🌐 **GitHub**: [yourusername](https://github.com/lokeshagarwal2304)  
+🌐 **GitHub**: Lokesh2304(https://github.com/lokeshagarwal2304)  
 📧 **Email**: lokeshagarwal2304@gmail.com
 
 ---
