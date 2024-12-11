@@ -3,8 +3,6 @@
 Welcome to the **Phonebook Management System**! 📱✨
 This is an interactive and user-friendly C++ program designed to manage your contacts efficiently. Organize, search, and even find locations on maps with ease! 🌍
 
-![Directory](https://github.com/user-attachments/assets/e5968589-8eb5-40d2-a65f-fd0e8a989331)
-
 ## 🚀 Features
 
 🔹 **Add Contacts**: Save contact details with just a few clicks.  
@@ -18,7 +16,7 @@ This is an interactive and user-friendly C++ program designed to manage your con
 
 ## 🎥 Demo
 
-Check out the app in action! (Add a demo GIF or screenshot here) 🖼️
+![Directory](https://github.com/user-attachments/assets/0627e4a7-d486-4d54-b070-4390a6ee7699)
 
 ---
 
